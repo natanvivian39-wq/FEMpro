@@ -1,0 +1,22 @@
+:root {
+  --fem-pink: #e93282;
+  --fem-pink-dark: #d92872;
+  --fem-pink-soft: #fff0f7;
+  --fem-pink-tint: #fbedf4;
+  --fem-black: #111111;
+  --fem-text: #19191d;
+  --fem-muted: #6d6d7b;
+  --fem-border: #ececf1;
+  --fem-surface: #ffffff;
+  --fem-success: #23b66a;
+  --fem-success-soft: #eaf8ef;
+  --fem-radius-sm: 14px;
+  --fem-radius-md: 22px;
+  --fem-radius-lg: 30px;
+  --fem-shadow: 0 3px 16px rgba(26, 20, 32, 0.025);
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--fem-text);
+  background: #fff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
